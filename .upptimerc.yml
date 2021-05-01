@@ -33,6 +33,7 @@ sites:
       - 403
 
 status-website:
+  theme: dark
   cname: status.planetary-quantum.com
   logoUrl: https://www.planetary-quantum.com/wp-content/uploads/2021/04/logo_white.svg
   name: Status Page

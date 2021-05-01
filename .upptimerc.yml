@@ -33,18 +33,16 @@ sites:
       - 403
 
 status-website:
-  theme: dark
+  theme: ocean
   cname: status.planetary-quantum.com
   logoUrl: https://www.planetary-quantum.com/wp-content/uploads/2021/04/logo_white.svg
   name: Status Page
-  introTitle: "This is the status page for Planetary Quantum GmbH"
+  introTitle: ""
   introMessage: "We provide customers with an application hosting platform (on top of Docker Swarm). To learn more about what we are monitoring, feel free to check out [our platform documentation](https://docs.planetary-quantum.com/platform/)."
   navbar:
-    - title: Status
-      href: /
     - title: Website
       href: https://www.planetary-quantum.com/
     - title: Imprint / Impressum
       href: https://www.planetary-quantum.com/service/impressum/
-    - title: GitHub
+    - title: Subscribe via GitHub
       href: https://github.com/$OWNER/$REPO

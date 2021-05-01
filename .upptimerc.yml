@@ -1,31 +1,49 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+---
+owner: hostwithquantum
+repo: status.planetary-quantum.com
+
+assignees:
+  - till
+  - rwos
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Console
+    url: https://console.planetary-quantum.com/
+  - name: Managed Logging
+    url: https://logs.planetary-quantum.com/
+    expectedStatusCodes:
+      - 403
+  - name: Managed Metrics
+    url: https://metrics.planetary-quantum.com/
+    expectedStatusCodes:
+      - 404
+  - name: Managed Registry
+    url: https://r.planetary-quantum.com/
+  - name: quantum-cli
+    url: https://cli.planetary-quantum.com/
+  - name: Quantum ID
+    url: https://id.planetary-quantum.com/
+  - name: Documentation
+    url: https://docs.planetary-quantum.com/
+  - name: Website
+    url: https://www.planetary-quantum.com/
+  - name: Object Storage
+    url: https://s3.storage.planetary-networks.de/
+    expectedStatusCodes:
+      - 403
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.planetary-quantum.com
+  logoUrl: https://www.planetary-quantum.com/wp-content/uploads/2021/04/logo_white.svg
+  name: Status Page
+  introTitle: "This is the status page for Planetary Quantum GmbH"
+  introMessage: "We provide customers with an application hosting platform (on top of Docker Swarm). To learn more about what we are monitoring, feel free to check out [our platform documentation](https://docs.planetary-quantum.com/platform/)."
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://www.planetary-quantum.com/
+    - title: Imprint / Impressum
+      href: https://www.planetary-quantum.com/service/impressum/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration

@@ -9,31 +9,39 @@ assignees:
 sites:
   - name: Console
     url: https://console.planetary-quantum.com/
+    maxResponseTime: 2000
   - name: Managed Logging
     url: https://logs.planetary-quantum.com/
+    maxResponseTime: 2000
     expectedStatusCodes:
       - 403
   - name: Managed Metrics
     url: https://metrics.planetary-quantum.com/
+    maxResponseTime: 2000
     expectedStatusCodes:
       - 404
   - name: Managed Registry
     url: https://r.planetary-quantum.com/
+    maxResponseTime: 2000
   - name: quantum-cli
     url: https://cli.planetary-quantum.com/
+    maxResponseTime: 2000
   - name: Quantum ID
     url: https://id.planetary-quantum.com/
+    maxResponseTime: 2000
   - name: Documentation
     url: https://docs.planetary-quantum.com/
   - name: Website
     url: https://www.planetary-quantum.com/
+    maxResponseTime: 2000
   - name: Object Storage
     url: https://s3.storage.planetary-networks.de/
+    maxResponseTime: 2000
     expectedStatusCodes:
       - 403
 
 status-website:
-  theme: dark
+  theme: ocean
   cname: status.planetary-quantum.com
   logoUrl: https://www.planetary-quantum.com/wp-content/uploads/2021/04/logo_white.svg
   name: Status Page

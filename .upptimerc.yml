@@ -40,8 +40,8 @@ status-website:
   introTitle: ""
   introMessage: "We provide customers with an application hosting platform (on top of Docker Swarm). To learn more about what we are monitoring, feel free to check out [our platform documentation](https://docs.planetary-quantum.com/platform/)."
   navbar:
-    - title: Website
-      href: https://www.planetary-quantum.com/
+    - title: Status
+      href: /
     - title: Imprint / Impressum
       href: https://www.planetary-quantum.com/service/impressum/
     - title: Subscribe via GitHub

@@ -130,9 +130,9 @@
     "url": "https://www.planetary-quantum.com/",
     "icon": "https://favicons.githubusercontent.com/www.planetary-quantum.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 799,
     "timeMonth": 833,
     "timeYear": 833,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-16": 0
+    }
   },
   {
     "name": "Object Storage",

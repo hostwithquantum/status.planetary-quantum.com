@@ -4,9 +4,9 @@
     "url": "https://console.planetary-quantum.com/",
     "icon": "https://favicons.githubusercontent.com/console.planetary-quantum.com",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1007,
     "timeMonth": 906,
     "timeYear": 1077,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-15": 0
+    }
   },
   {
     "name": "Managed Logging",

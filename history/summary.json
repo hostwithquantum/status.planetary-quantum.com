@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/console.planetary-quantum.com",
     "slug": "console",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 1125,
     "timeDay": 1640,
     "timeWeek": 1026,
@@ -61,9 +61,9 @@
     "url": "https://r.planetary-quantum.com/",
     "icon": "https://favicons.githubusercontent.com/r.planetary-quantum.com",
     "slug": "managed-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +72,9 @@
     "timeWeek": 1131,
     "timeMonth": 1316,
     "timeYear": 1306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-28": 0
+    }
   },
   {
     "name": "quantum-cli",

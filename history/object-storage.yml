@@ -1,7 +1,7 @@
 url: https://s3.storage.planetary-networks.de/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-09-04T00:36:22.289Z
+status: up
+code: 403
+responseTime: 799
+lastUpdated: 2021-09-04T13:36:41.889Z
 startTime: Sat May 01 2021 14:50:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

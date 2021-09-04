@@ -159,19 +159,19 @@
     "url": "https://s3.storage.planetary-networks.de/",
     "icon": "https://favicons.githubusercontent.com/s3.storage.planetary-networks.de",
     "slug": "object-storage",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "56.63%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "99.66%",
     "time": 776,
-    "timeDay": 660,
-    "timeWeek": 786,
-    "timeMonth": 849,
+    "timeDay": 730,
+    "timeWeek": 787,
+    "timeMonth": 848,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2021-09-04": 19
+      "2021-09-04": 625
     }
   }
 ]

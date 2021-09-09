@@ -83,19 +83,19 @@
     "url": "https://cli.planetary-quantum.com/",
     "icon": "https://favicons.githubusercontent.com/cli.planetary-quantum.com",
     "slug": "quantum-cli",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 2106,
-    "timeWeek": 709,
-    "timeMonth": 337,
-    "timeYear": 268,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 267,
+    "timeDay": 1455,
+    "timeWeek": 647,
+    "timeMonth": 331,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2021-09-09": 0
+      "2021-09-09": 24
     }
   },
   {

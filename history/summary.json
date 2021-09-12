@@ -63,9 +63,9 @@
     "url": "https://r.planetary-quantum.com/",
     "icon": "https://favicons.githubusercontent.com/r.planetary-quantum.com",
     "slug": "managed-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -75,6 +75,7 @@
     "timeMonth": 791,
     "timeYear": 1147,
     "dailyMinutesDown": {
+      "2021-09-12": 0,
       "2021-07-28": 16
     }
   },
@@ -162,11 +163,11 @@
     "icon": "https://favicons.githubusercontent.com/s3.storage.planetary-networks.de",
     "slug": "object-storage",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.57%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 791,
     "timeDay": 1022,
     "timeWeek": 1027,

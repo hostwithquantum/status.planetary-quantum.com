@@ -13,6 +13,8 @@ sites:
   - name: Managed Logging
     url: https://logs.planetary-quantum.com/loki/ready
     maxResponseTime: 2000
+    expectedStatusCodes:
+      - 401
   - name: Managed Metrics
     url: https://metrics.planetary-quantum.com/
     maxResponseTime: 2000

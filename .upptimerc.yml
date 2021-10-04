@@ -11,10 +11,8 @@ sites:
     url: https://console.planetary-quantum.com/
     maxResponseTime: 2000
   - name: Managed Logging
-    url: https://logs.planetary-quantum.com/
+    url: https://logs.planetary-quantum.com/loki/ready
     maxResponseTime: 2000
-    expectedStatusCodes:
-      - 403
   - name: Managed Metrics
     url: https://metrics.planetary-quantum.com/
     maxResponseTime: 2000

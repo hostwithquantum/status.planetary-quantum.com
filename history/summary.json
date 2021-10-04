@@ -23,7 +23,7 @@
   },
   {
     "name": "Managed Logging",
-    "url": "https://logs.planetary-quantum.com/",
+    "url": "https://logs.planetary-quantum.com/loki/ready",
     "icon": "https://favicons.githubusercontent.com/logs.planetary-quantum.com",
     "slug": "managed-logging",
     "status": "down",

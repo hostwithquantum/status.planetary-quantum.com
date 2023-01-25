@@ -1,7 +1,7 @@
 url: https://id.planetary-quantum.com/
-status: up
+status: degraded
 code: 200
-responseTime: 1007
-lastUpdated: 2023-01-24T23:04:05.574Z
+responseTime: 11964
+lastUpdated: 2023-01-25T07:35:02.732Z
 startTime: Sat May 01 2021 14:50:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

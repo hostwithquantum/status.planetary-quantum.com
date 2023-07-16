@@ -4,18 +4,19 @@
     "url": "https://console.planetary-quantum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/console.planetary-quantum.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1225,
+    "time": 1224,
     "timeDay": 165,
     "timeWeek": 968,
     "timeMonth": 1176,
     "timeYear": 1242,
     "dailyMinutesDown": {
+      "2023-07-16": 1,
       "2023-01-25": 102,
       "2022-08-09": 95,
       "2022-08-05": 8
@@ -185,9 +186,9 @@
     "url": "https://s3.storage.planetary-networks.de/",
     "icon": "https://icons.duckduckgo.com/ip3/s3.storage.planetary-networks.de.ico",
     "slug": "object-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -197,6 +198,7 @@
     "timeMonth": 839,
     "timeYear": 906,
     "dailyMinutesDown": {
+      "2023-07-16": 0,
       "2023-04-02": 9,
       "2023-01-25": 24
     }
